@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Shallu 👋
 
-<!--
-**ShalluGulati/ShalluGulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌟 **About Me**:
+- 🛠️ Data Engineering Manager with 15+ years of experience.
+- 🚀 Skilled in SQL, Python, Snowflake, IDMC, Airflow, AWS, and Azure.
+- 🌐 Passionate about Generative AI, AI/ML, and Data-Driven Solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **What I'm Learning**:
+- Exploring advanced use cases in Generative AI & building LLM applications.
+- Enhancing skills in Data Engineering.
+
+💼 **Current Projects**:
+- Cloud migration for large-scale data warehouses.
+- Developing reusable ETL/ELT pipelines with IDMC.
+  
+
+📫 **Reach Me**:
+- [LinkedIn](https://www.linkedin.com/in/shallu-gulati-a6031a74/)  
+- [Email](mailto:email.shallugulati@gmail.com)
+
